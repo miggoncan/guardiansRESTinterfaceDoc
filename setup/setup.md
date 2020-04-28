@@ -160,6 +160,7 @@ Then, we have to add the openjdk-8 library:
 ![Add library](./eclipse/javaBuildPath/jreRemoved.png)
 
 We have to select 'JRE System Library':
+
 ![Select JRE System Library](./eclipse/javaBuildPath/addLibrary.png)
 
 Then, then follwing window will pop up:
