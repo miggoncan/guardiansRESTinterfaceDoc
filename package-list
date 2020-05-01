@@ -1,8 +1,8 @@
-es.us.alumn.miggoncan2
-es.us.alumn.miggoncan2.controllers
-es.us.alumn.miggoncan2.controllers.exceptions
-es.us.alumn.miggoncan2.model.assembler
-es.us.alumn.miggoncan2.model.entities
-es.us.alumn.miggoncan2.model.entities.primarykeys
-es.us.alumn.miggoncan2.model.repositories
-es.us.alumn.miggoncan2.model.validation
+guardians
+guardians.controllers
+guardians.controllers.exceptions
+guardians.model.assembler
+guardians.model.entities
+guardians.model.entities.primarykeys
+guardians.model.repositories
+guardians.model.validation
