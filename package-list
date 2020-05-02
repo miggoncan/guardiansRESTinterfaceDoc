@@ -1,7 +1,7 @@
 guardians
 guardians.controllers
+guardians.controllers.assemblers
 guardians.controllers.exceptions
-guardians.model.assembler
 guardians.model.entities
 guardians.model.entities.primarykeys
 guardians.model.repositories
