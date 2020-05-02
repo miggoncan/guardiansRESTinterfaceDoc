@@ -5,4 +5,5 @@ guardians.model.assembler
 guardians.model.entities
 guardians.model.entities.primarykeys
 guardians.model.repositories
-guardians.model.validation
+guardians.model.validation.annotations
+guardians.model.validation.validators
