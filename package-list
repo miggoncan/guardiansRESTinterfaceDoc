@@ -2,6 +2,7 @@ guardians
 guardians.controllers
 guardians.controllers.assemblers
 guardians.controllers.exceptions
+guardians.model.dtos
 guardians.model.entities
 guardians.model.entities.primarykeys
 guardians.model.repositories
