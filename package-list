@@ -3,6 +3,8 @@ guardians.controllers
 guardians.controllers.assemblers
 guardians.controllers.exceptions
 guardians.model.dtos
+guardians.model.dtos.general
+guardians.model.dtos.scheduler
 guardians.model.entities
 guardians.model.entities.primarykeys
 guardians.model.repositories
